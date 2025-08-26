@@ -1,4 +1,5 @@
-This repository contains code used in “Chiral cadherin flow and extracellular matrix break left–right symmetry of cytokinesis during embryogenesis” (Khor et al.).
+This repository contains code used in “Cadherin flow translates cortical chirality into left-right asymmetric cell division
+dynamics” (Khor et al.).
 
 A Jupyter notebook includes an HMR-1 distribution simulator with user-tunable control parameters.
 
